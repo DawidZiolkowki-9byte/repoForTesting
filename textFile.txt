@@ -1,4 +1,12 @@
 zmiana pierwsza
 komit drugi
+<<<<<<< HEAD
 kommit z mastera po utworzeniu ga³¹zki
 cos nowego pzred mergem
+=======
+<<<<<<< HEAD
+branchGa³¹zka
+=======
+kommit z mastera po utworzeniu ga³¹zki
+>>>>>>> a12b267466e542c58163bf2b9d3435b9f33cdf92
+>>>>>>> galazka
