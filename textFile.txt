@@ -1,2 +1,3 @@
 zmiana pierwsza
 komit drugi
+kommit z mastera po utworzeniu ga³¹zki
